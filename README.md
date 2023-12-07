@@ -1,6 +1,5 @@
 # Daksha-Website
 
-![Daksha Logo](path/to/logo.png)
 
 Daksha-Website is a web project that serves as the online presence for Daksha. This repository contains the source code for the Daksha website, providing information about the organization, its activities, and more.
 

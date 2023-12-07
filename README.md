@@ -5,29 +5,13 @@ Daksha-Website is a web project that serves as the online presence for Daksha. T
 Introduction
 Briefly introduce Daksha and its objectives. Explain the purpose of the Daksha-Website project and how it contributes to achieving these objectives.
 
-Project Structure
-css: Contains stylesheets for the website, including preprocessed files.
-images: Static assets such as images used in the website.
-js: JavaScript files for client-side functionality.
-vendor: Third-party libraries like Bootstrap and jQuery.
-Features
-Responsive design using Bootstrap.
-Informative pages detailing Daksha's activities, mission, etc.
-[Add any other notable features]
-Getting Started
-Provide instructions on how to get the project up and running on a local machine. Include steps for installation, configuration, and running the development server.
+##Project Structure
+-CSS: Contains stylesheets for the website, including preprocessed files.
+-images: Static assets such as images used in the website.
+-js: JavaScript files for client-side functionality.
+-vendor: Third-party libraries like Bootstrap and jQuery.
 
-bash
-Copy code
-# Clone the repository
-git clone https://github.com/SaikrishnaBijja/Daksha-Website.git
+##Features
+-Responsive design using React & Bootstrap.
+-Informative pages detailing Daksha's activities, mission, etc.
 
-# Navigate to the project directory
-cd Daksha-Website
-
-# [Add any specific instructions for setup]
-
-# Open index.html in a web browser
-Dependencies
-Bootstrap: Front-end framework for responsive design.
-jQuery: JavaScript library for DOM manipulation.
